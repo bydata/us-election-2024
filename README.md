@@ -22,4 +22,8 @@ Charts and maps about the US Presidential Election 2024. A collaboration between
 * [MIT Election Data & Science Lab](https://electionlab.mit.edu/data): Datasets about election results by state, district, county, precinct
   * [US Presidential Election results by state 1976-2020](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX)
   * [County Presidential Election Returns 2000-2020](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/VOQCHQ)
-* [FiveThirtyEight data](https://data.fivethirtyeight.com/) - all datasets (beyond U.S. elections) on the original site 
+* [FiveThirtyEight data](https://data.fivethirtyeight.com/) - all datasets (beyond U.S. elections) on the original site
+
+## R Packages
+
+* tidycensus: https://walker-data.com/tidycensus/
