@@ -7,6 +7,7 @@ Charts and maps about the US Presidential Election 2024. A collaboration between
 
 * [How the president is elected](https://www.usa.gov/election) (USA.gov)
 * [United States presidential election](https://en.wikipedia.org/wiki/United_States_presidential_election) (Wikipedia)
+* [The electoral college - simplified](https://bipartisanpolicy.org/explainer/the-electoral-college-simplified/)
 
 ### News
 
